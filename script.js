@@ -19,7 +19,7 @@ var polygon = L.polygon([
   fillColor: 0,
   
 }).addTo(map)
-.bindPopup("<h5>زدش بر زمین بر به کردار شیر</h5><h5>هم آنگه که تو تشنه گشتی به خون</h5>")
+.bindPopup("<h4>زدش بر زمین بر به کردار شیر</h4><h4>هم آنگه که تو تشنه گشتی به خون</h4>")
 
 
 var polygon = L.polygon([
@@ -34,4 +34,4 @@ var polygon = L.polygon([
   fillColor: 0,
   
 }).addTo(map)
-.bindPopup("<h5>بدانست کاو هم نماند به زیر</h5><h5>بیالود آن خنجر آبگون</h5>")
+.bindPopup("<h4>بدانست کاو هم نماند به زیر</h5><h5>بیالود آن خنجر آبگون</h4>")
